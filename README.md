@@ -8,7 +8,7 @@ The main purpose of this *“readme.md”* file is to reason with why we have cr
 
  - [Github link](https://github.com/Vid-27/Web-Portal-CSBS)
  - [Main Page](https://vid-27.github.io/Web-Portal-CSBS/)
- - [About CIT Page](#)
+ - [About CIT Page](https://github.com/Vid-27/legendary-advisors)
  - [Our Team Page](https://vid-27.github.io/Rick-Ashley/)
  - [Code -1 Page](https://github.com/Vid-27/Web-Portal-CSBS)
  - [Code -2 Page](#)
