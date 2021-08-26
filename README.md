@@ -1,10 +1,11 @@
 
 ![WhatsApp Image 2021-08-11 at 5 51 50 PM](https://user-images.githubusercontent.com/72182858/130989711-99f819bc-21cf-4239-9b50-6fc6f151a2b0.jpeg)
-## We are the team ***“Rick Ashley”***  representing our department of CSBS . Everything we came up with is original , none of it You will find anywhere, whether it be design or logo or content or anything. You will only find it on our website only.
+We are the team ***“Rick Ashley”***  representing our department of CSBS . Everything we came up with is original , none of it You will find anywhere, whether it be design or logo or content or anything. You will only find it on our website only.
 
-### The main purpose of this “readme” file is to reason with why we have created 2 pages for our department.
+The main purpose of this *“readme.md”* file is to reason with why we have created 2 pages for our department.
 
 ## LINKS
+
  - [Github link](#)
  - [Main Page](#)
  - [About CIT Page](#)
